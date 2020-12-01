@@ -1,16 +1,7 @@
 # **_Who I am?_**
 
 <table border="0">
- <style>
-   table {
-    width: 100%;
-   }
-   td {
-    padding: 5px;
-    vertical-align: top;
-    line-height: 2;
-   }
-  </style>
+
  <tr>
     <td><img src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/118556657_3335128893232782_4336652512681046995_n.jpg?_nc_cat=109&ccb=2&_nc_sid=174925&_nc_ohc=whICfkhqozMAX910JkC&_nc_ht=scontent-waw1-1.xx&oh=584569b71a7c0e1145bfb68c67979e21&oe=5FE33A89" width="240px" height="220px"/></td>
     <td>
